@@ -72,7 +72,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '-1002384958285') # Pub
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movies_group77')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+x7DVuvgQ6yE5)
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+x7DVuvgQ6yE5')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'vj_bot_disscussion') # Support Chat Link Without https:// or @
 
